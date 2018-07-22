@@ -1,1 +1,2 @@
 # something
+## How to contribute
